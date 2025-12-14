@@ -1,7 +1,7 @@
-fabric-loader
+ValMCLoader
 ===========
 
-The loader for mods under Fabric. It provides mod loading facilities and useful abstractions for other mods to use.
+The loader for mods under ValMC. It provides mod loading facilities and useful abstractions for other mods to use.
 
 ## License
 
